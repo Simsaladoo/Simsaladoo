@@ -1,3 +1,3 @@
 # DavidMiller
 
-I'm David
+I'm David, currently a Technical Director at Halon Entertainment where I work on Technical Art for Fortnite and other film & game projects as well as python scripting and tools for Unreal Engine.  I've worked heavily in Technical Art for the last decade, and also within Pipeline Engineering building out infrastructure back-end tooling for the studio.  I love python scripting and creating Unreal solutions for both cinematics as well as gameplay and I try to share what I can, but more often am sharing dev work from building my personal RPG passion project [Winds of Almerra](https://almerra.com).

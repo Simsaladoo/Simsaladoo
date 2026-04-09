@@ -5,4 +5,4 @@ I most recently worked at Halon Entertainment, where I spent nearly a decade sup
 
 My work lives at the intersection of engineering and creative production: Python tooling, PySide/PyQt UI development, Houdini, Unreal Engine, HLSL shaders, AWS Deadline, Docker, and pipeline automation.
 
-When I'm not building tools I'm working on [Winds of Almerra](https://almerra.com) — my personal RPG passion project.
+When I'm not building tools I'm working on Unreal editor tools and workflows, and my personal RPG passion project [Winds of Almerra](https://almerra.com).
